@@ -16,7 +16,7 @@ namespace JobRetry
         {
             Getretrypolicyhandler().Execute(() =>
             {
-                //Code 
+                //write the code you want to retry
             });
         }
 
